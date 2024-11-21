@@ -1,7 +1,5 @@
 # Příběh
 
-## Základní body
-
 ### Úvod
 1. Probuzení Teda a vypravěč *(AM)* začíná
 
