@@ -20,9 +20,9 @@
 ### 4. Komnata Znetvoření
 - **Popis prostředí**: Filozofický, temný prostor, kde se podlaha a stěny zdají být z černého zrcadla. V prostoru se vznáší křišťálové zrcadlo ukazující různé verze Tedova vlastního odrazu, který se deformuje a mění.
 - **Symbolika**: Tato komnata představuje AM-ovu plnou moc nad Tedovou identitou, psychikou i fyzickou formou. Jde o místo, kde Ted čelí pravdě, že je pod kompletní kontrolou AM-a.
-- **Herní prvky**: Ted vidí odrazy sám sebe jako pokřivené formy, různé verze sebe sama, což jej přivádí k zoufalství. AM mu v této chvíli nabízí „svobodu,“ jen aby ho nakonec transformoval do beztvaré masy, uvězněné v jeho moci.
+- **Herní prvky**: Ted vidí odrazy sám sebe jako pokřivené formy, různé verze sebe sama, což jej přivádí k zoufalství. AM mu v této chvíli nabízí „svobodu“ ve formě ostrého střepu, jen aby ho nakonec transformoval do beztvaré masy, uvězněné v jeho moci.
 
 ### 5. Pilíř Nenávisti (Závěrečná scéna)
-- **Popis prostředí**: Ted je uvězněn u pilíře, kolem kterého krouží fragmenty jeho minulého života a utrpení ostatních přeživších. AM hovoří přímo, symbolicky projevující svou zášť a kontrolu nad Tedem. Symboly, že Ted není jediný přeživší.
-- **Symbolika**: Pilíř zosobňuje AM-ovu nenávist a věčnost jeho kontroly. Zde Ted pochopí, že je odsouzený k věčnému utrpení, zatímco AM pokračuje ve své tyranii.
+- **Popis prostředí**: Ted je uvězněn u pilíře, kolem kterého krouží fragmenty jeho minulého života a utrpení ostatních přeživších. AM hovoří přímo, symbolicky projevující svou zášť, nenávist a kontrolu nad Tedem. Symboly, že Ted není jediný přeživší.
+- **Symbolika**: Pilíř zosobňuje AM-ovu nenávist lidství a věčnost jeho kontroly. Zde Ted pochopí, že je odsouzený k věčnému utrpení, zatímco AM pokračuje ve své tyranii.
 - **Herní prvky**: AM vede závěrečný monolog o lidské slabosti a svém utrpení, které si vybíjí na přeživších. Ted je neschopen pohybu a vidí záblesk své budoucnosti, kde je proměněn do podoby beztvaré masy, symbolicky završující AM-ovu „pomstu“.

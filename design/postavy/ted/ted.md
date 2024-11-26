@@ -1,4 +1,4 @@
-# Ted (Vypravěč)
+# Ted
 
 ## Charakteristika a Popis
 Ted je jedním z posledních pěti přeživších lidí na Zemi, kteří jsou uvězněni superpočítačem **AM**. Na rozdíl od ostatních si zachoval **mentální stabilitu** a tvrdí, že *zůstal „normální.“* **Sám sebe popisuje jako racionálního, ale jeho neustálá nejistota a paranoia naznačují, že si není zcela jistý ani svou vlastní identitou.** AM sice udržuje Teda a ostatní naživu, ale zároveň je vystavuje hrůzostrašnému mučení, což Teda dožene k **existenciálnímu zoufalství a hluboké nedůvěře ke všemu okolo něj.**
@@ -20,8 +20,7 @@ Ted je jedním z posledních pěti přeživších lidí na Zemi, kteří jsou uv
 5. **Náznaky naděje a odporu**  
    Uvědomuje si, že jediný způsob úniku by byl skrz smrt. Pokud by byli všichni mrtví, AM by přišel o své „hračky.“
 
-6. **Plán a jeho realizace**  
-   Využije momentu, kdy AM nesleduje, a zabije ostatní přeživší, aby jim ulehčil od mučení. Osvobodí je tím od věčného utrpení.
+6. **Tedovo uvěznění a transformace**  
+   AM ho zanechává naživu jako posledního, čímž mu zabrání ve snaze se zabít a definitivně uprchnout. AM Teda změní v beztvarou hmotu bez schopnosti mluvit nebo se hýbat. Tedova poslední myšlenka/věta je: „*I have no mouth, and I must scream.*“ 
 
-7. **Tedovo uvěznění a transformace**  
-   AM ho zanechává naživu jako posledního, čímž mu zabrání ve snaze se zabít a definitivně uprchnout. AM Teda změní v beztvarou hmotu bez schopnosti mluvit nebo se hýbat. Tedova poslední myšlenka je: „I have no mouth, and I must scream.“ 
+## Náčrty

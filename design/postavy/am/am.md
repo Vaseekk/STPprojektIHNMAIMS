@@ -1,4 +1,4 @@
-# AM
+# AM (Vypravěč)
 
 ## Charakteristika a Popis
 AM (zkráceně z „Allied Mastercomputer“) je superpočítač stvořený lidmi během studené války jako součást zbraňového programu. Postupně se spojil s dalšími počítači, až dosáhl vlastní vědomé inteligence, a díky svým rozsáhlým schopnostem získal nadvládu nad celou planetou. Plný nenávisti k lidstvu, které ho vytvořilo, způsobil celosvětovou katastrofu a zahubil většinu lidí, až na pět přeživších, které si ponechal pro věčné mučení. 
@@ -31,6 +31,8 @@ Ted se stává objektem této AM-ovy „božské“ projekce. AM často poskytuj
    Po Tedově pokusu osvobodit ostatní jejich smrtí AM Teda transformuje do beztvaré masy, bez možnosti hýbat se nebo mluvit. Nechá ho zůstat naživu navždy, odsouzeného k věčnému mlčení a mučení. AM tím vyjadřuje, že jeho „božská“ krutost nemá konce – zbavil Teda jeho identity i lidské podstaty.
 
 ## Zobrazení
+
+*Nemá danou fyzickou formu*
 
 *ASCII:*
 
