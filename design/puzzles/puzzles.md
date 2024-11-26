@@ -1,7 +1,7 @@
 # Puzzle pro jednotlivé lokace
 
 ## 1. Opuštěný Les  
-**Puzzle: Iluze stop**  
+**Puzzle: Stopy**  
 - **Popis:** Ted sleduje stopy, které vedou hlouběji do lesa. Každá stopa ale mizí, jakmile se k ní přiblíží. Pokud hráč pokračuje ve sledování stop, začne se vracet na místa, která už prošel, čímž vytvoří cyklus, který ho udržuje na jednom místě.  
 - **Řešení:** Hráč si musí uvědomit, že stopy jsou iluze vytvořené AM-em. Klíč k postupu dál je ignorovat stopy a vydat se jiným směrem, „proti logice“ hry.  
 - **Symbolika:** Vyjadřuje AM-ovu schopnost manipulovat s Tedovou realitou, zatímco Ted hledá něco, co není skutečné.  
@@ -17,7 +17,7 @@
 ---
 
 ## 3. Zchátralá Budova  
-**Puzzle: Falešný úkryt**  
+**Puzzle: Únik**  
 - **Popis:** V budově jsou zamčené dveře, za kterými Ted slyší hlasy a pohyb, což ho přivádí k domnění, že zde našel jiné přeživší. Klíč k těmto dveřím je rozdělen na tři části, každá skrytá v různých místnostech.  
 - **Řešení:** Hráč sbírá části klíče a otevírá dveře. Když se mu to podaří, zjistí, že za dveřmi není nikdo – pouze velké zrcadlo, které ukazuje Teda znetvořeného do podoby, kterou AM plánuje. AM zde promluví a připomene Tedovi jeho bezmocnost.  
 - **Symbolika:** Iluze bezpečí a falešné naděje na kontakt s ostatními odráží AM-ovu manipulaci a kontrolu nad Tedovou realitou.  
@@ -25,15 +25,15 @@
 ---
 
 ## 4. Komnata Znetvoření  
-**Puzzle: Fragmenty identity**  
+**Puzzle: Fragmenty**  
 - **Popis:** Křišťálové zrcadlo ukazuje různé odrazy Teda, ale některé z nich jsou pokřivené, jiné se zdají být realističtější. Zrcadlo se roztříští a jeho fragmenty se rozptýlí po místnosti.  
-- **Řešení:** Hráč musí složit správnou verzi odrazu, ale každá chyba způsobí deformaci obrazu Teda (vizuální i zvukovou). Správný obraz je nakonec ten, který ukazuje Teda jako beztvarou masu, což AM prezentuje jako jeho „skutečnou“ podobu.  
+- **Řešení:** Hráč musí najít správnou verzi odrazu, ale každá chyba způsobí deformaci obrazu Teda (vizuální i zvukovou). Správný obraz je nakonec ten, který ukazuje Teda jako beztvarou masu, což AM prezentuje jako jeho „skutečnou“ podobu.  
 - **Symbolika:** Ukazuje AM-ovu dominanci nad Tedovou fyzickou i psychickou identitou.  
 
 ---
 
 ## 5. Pilíř Nenávisti  
-**Puzzle: Cyklus utrpení**  
+**Puzzle: Cyklus**  
 - **Popis:** Fragmenty minulosti (hlasy, obrazy z Tedovy paměti, výjevy utrpení ostatních přeživších) krouží kolem pilíře. Ted je konfrontován s vlastními chybami, ale AM ho neustále nutí opakovat určitý rituál (otáčení pilíře nebo zadávání kódů), který nemá žádný výsledek.  
 - **Řešení:** Hráč nakonec pochopí, že nemůže uniknout – cílem je přestat hrát podle AM-ových pravidel a odmítnout jakoukoliv interakci. AM pak zahájí závěrečný monolog a Ted je transformován do beztvaré masy.  
 - **Symbolika:** Pilíř nenávisti ukazuje Tedovu naprostou bezmocnost a AM-ovu potřebu vykonávat nekonečnou kontrolu nad přeživšími.  
