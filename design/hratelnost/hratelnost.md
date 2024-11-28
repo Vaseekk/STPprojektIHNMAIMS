@@ -13,6 +13,3 @@
 - **Rozbití čtvrté dimenze** – hráč nevnímá hru jako hru, ale jako program běžící na počítači; je třeba se ho „naučit ovládat“ (restarty, práce se soubory hry atd.) pro postup ve hře
 - **Retro hratelnost** – žádné prvky moderních herních trendů
 - **Pohyb pomocí kláves** - příjemnější hratelnost (náš cíl, co se týče pohybu, kamery a atmosféry je Silent Hill 2 (2001))
-
-
-## Náčrty
