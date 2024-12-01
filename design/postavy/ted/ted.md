@@ -23,4 +23,10 @@ Ted je jedním z posledních pěti přeživších lidí na Zemi, kteří jsou uv
 6. **Tedovo uvěznění a transformace**  
    AM ho zanechává naživu jako posledního, čímž mu zabrání ve snaze se zabít a definitivně uprchnout. AM Teda změní v beztvarou hmotu bez schopnosti mluvit nebo se hýbat. Tedova poslední myšlenka/věta je: „*I have no mouth, and I must scream.*“ 
 
-## Náčrty
+## Náčrt
+
+![Ted nacrt](obrazky/tedNacrt.png)
+
+### Originál:
+
+![Ted original](obrazky/tedOriginal.png)

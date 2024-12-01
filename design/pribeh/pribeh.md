@@ -35,8 +35,6 @@
 
 ### Závěr
 
-
-
 #### Originál
  1. Skupina je uvězněna (každá postava má svojí vlastní klec uzpůsobenou jejich nejvetším strachům)
 
@@ -52,3 +50,8 @@
     *originální zpracování:*
 
     ![pilíř hněvu v originální hře](obrazky/pilirNenavistiOriginal.jpg)
+
+
+## Staré návrhy:
+![Stary navrh pribehu 1](obrazky/puvodniPribeh.png)
+![Stary navrh pribehu 2](obrazky/puvodniPribeh2.png)

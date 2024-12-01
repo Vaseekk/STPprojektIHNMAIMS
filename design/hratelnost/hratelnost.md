@@ -5,7 +5,7 @@
 - **HUD**
 - **Moderní hratelnost** – žádné zjednodušení nebo "casual" prvky
 - **Čistý nádech** – styl by měl být spíše syrový a retro
-- **Poinnt and click** - nám nepříjemný styl pohybu
+- **Point and click** - nám nepříjemný styl pohybu
 
 ## Věci, které chceme
 - **Repetitivně nepříjemné části** – zážitek má být psychicky náročnější
