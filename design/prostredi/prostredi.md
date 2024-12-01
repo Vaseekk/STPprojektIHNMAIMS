@@ -43,7 +43,7 @@
 ![DALL-E generated Budova](obrazky/budova.png)
 
 ### 4. Znetvoření
-- **Popis prostředí**: Filozofický, temný prostor, kde se podlaha a stěny zdají být z černého zrcadla. V prostoru se vznáší křišťálové zrcadlo ukazující různé verze Tedova vlastního odrazu, který se deformuje a mění.
+- **Popis prostředí**: Temný prostor, kde se podlaha a stěny zdají být z černého zrcadla. V prostoru se vznáší křišťálové zrcadlo ukazující různé verze Tedova vlastního odrazu, který se deformuje a mění.
 - **Symbolika**: Tato komnata představuje AM-ovu plnou moc nad Tedovou identitou, psychikou i fyzickou formou. Jde o místo, kde Ted čelí pravdě, že je pod kompletní kontrolou AM-a.
 - **Herní prvky**: Ted vidí odrazy sám sebe jako pokřivené formy, různé verze sebe sama, což jej přivádí k zoufalství. AM mu v této chvíli nabízí „svobodu“ ve formě ostrého střepu, jen aby ho nakonec transformoval do beztvaré masy, uvězněné v jeho moci.
 
