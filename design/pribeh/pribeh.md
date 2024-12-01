@@ -5,14 +5,14 @@
 
 ### Zápletka
 *Ted je přesvedčen, že je v perfektním mentálním stavu, ikdyž celý svět ukazuje o opaku. Potřeba najít společnost. Teda nenapadne ani myšlenka o útěku (není to první návštěva světa a podvědomně ví, že není útěku).*
-1. Negativní pocity co vedou Teda dál světem: 
+1. Negativní pocity a věci co vedou Teda dál světem: 
     * Samota
     * Hlad
     * Nedávné stopy
     * Vypravěč
     * Iluze perfektního mentálního stavu
 
-2. Negativní pocity co cestu dělají obtížnější:
+2. Negativní pocity a věci co cestu dělají obtížnější:
     * Paranoia
     * Halucinace a bludy
     * Překážky od AM
