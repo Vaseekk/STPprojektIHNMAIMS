@@ -1,7 +1,7 @@
 # Ted
 
 ## Charakteristika a Popis
-Ted je jedním z posledních pěti přeživších lidí na Zemi, kteří jsou uvězněni superpočítačem **AM**. Na rozdíl od ostatních si zachoval **mentální stabilitu** a tvrdí, že *zůstal „normální.“* **Sám sebe popisuje jako racionálního, ale jeho neustálá nejistota a paranoia naznačují, že si není zcela jistý ani svou vlastní identitou.** AM sice udržuje Teda a ostatní naživu, ale zároveň je vystavuje hrůzostrašnému mučení, což Teda dožene k **existenciálnímu zoufalství a hluboké nedůvěře ke všemu okolo něj.**
+Ted je jedním z posledních pěti přeživších lidí na Zemi, kteří jsou uvězněni superpočítačem **AM**. Tvrdí že si na rozdíl od ostatních zachoval **mentální stabilitu** a *zůstal „normální.“* **Sám sebe popisuje jako racionálního, ale jeho neustálá nejistota a paranoia naznačují, že si není zcela jistý ani svou vlastní identitou.** AM sice udržuje Teda a ostatní naživu, ale zároveň je vystavuje hrůzostrašnému mučení, což Teda dožene k **existenciálnímu zoufalství a hluboké nedůvěře ke všemu okolo něj.**
 
 ## Tedova Dějová Linka
 

@@ -38,7 +38,6 @@
 #### Náčrty
 ![Budova nacrt 1](obrazky/budovaNacrt1.png)
 ![Budova nacrt 2](obrazky/budovaNacrt2.png)
-![Budova nacrt 3](obrazky/budovaNacrt3.png)
 
 #### DALL-E:
 ![DALL-E generated Budova](obrazky/budova.png)
