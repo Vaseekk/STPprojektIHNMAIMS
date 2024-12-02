@@ -23,7 +23,6 @@
 
 #### Náčrty
 ![Pustina nacrt 1](obrazky/pustinaNacrt1.png)
-![Pustina nacrt 2](obrazky/pustinaNacrt2.png)
 ![Pustina nacrt 3](obrazky/pustinaNacrt3.png)
 
 #### DALL-E:
