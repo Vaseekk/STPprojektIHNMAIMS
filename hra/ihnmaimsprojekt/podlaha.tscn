@@ -1,0 +1,47 @@
+[gd_scene load_steps=6 format=3 uid="uid://bobjlj58gyst8"]
+
+[ext_resource type="PackedScene" uid="uid://b6g7c2rgqlxh1" path="res://TED.blend" id="1_3hxs7"]
+[ext_resource type="Script" path="res://CharacterBody3d.cs" id="1_461pb"]
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_pj8s0"]
+size = Vector3(1, 2, 1)
+
+[sub_resource type="PlaneMesh" id="PlaneMesh_o4wi2"]
+size = Vector2(20, 20)
+
+[sub_resource type="BoxShape3D" id="BoxShape3D_x8lnv"]
+size = Vector3(20, 0.1, 20)
+
+[node name="Projekt" type="Node3D"]
+
+[node name="Hrac" type="Node3D" parent="."]
+transform = Transform3D(-0.983853, 0.00357905, 0.178941, 0.0032152, 0.999992, -0.00232328, -0.178948, -0.00171043, -0.983857, 0, 0, 0)
+
+[node name="CharacterBody3D" type="CharacterBody3D" parent="Hrac"]
+transform = Transform3D(0.986063, 0.00043134, 0.166372, -0.000341719, 1, -0.000567302, -0.166372, 0.000502543, 0.986063, 0, 0, 0)
+script = ExtResource("1_461pb")
+
+[node name="TED" parent="Hrac/CharacterBody3D" instance=ExtResource("1_3hxs7")]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.0659, 0)
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Hrac/CharacterBody3D"]
+transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.04562, 0)
+shape = SubResource("BoxShape3D_pj8s0")
+
+[node name="Camera3D" type="Camera3D" parent="Hrac/CharacterBody3D"]
+transform = Transform3D(-0.999981, 0, -0.0062307, 0, 1, 0, 0.0062307, 0, -0.999981, 0, 1.93182, 0.26686)
+
+[node name="Podlaha" type="Node3D" parent="."]
+
+[node name="SpotLight3D" type="SpotLight3D" parent="Podlaha"]
+transform = Transform3D(1, 0, 0, 0, 0.00600384, 0.999982, 0, -0.999982, 0.00600384, 0.0295608, 3.55052, 0.0242091)
+
+[node name="MeshInstance3D" type="MeshInstance3D" parent="Podlaha"]
+mesh = SubResource("PlaneMesh_o4wi2")
+skeleton = NodePath("../..")
+
+[node name="StaticBody3D" type="StaticBody3D" parent="Podlaha/MeshInstance3D"]
+disable_mode = 1
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="Podlaha/MeshInstance3D/StaticBody3D"]
+shape = SubResource("BoxShape3D_x8lnv")
